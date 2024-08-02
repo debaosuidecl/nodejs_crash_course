@@ -1,7 +1,0 @@
-TYPES OF HTTP REQUESTS
-
-GET // get a data from the server
-POST // send a data to the server
-PUT // updating a data in the server
-DELETE // deleting data in the server 
-PATCH // update data on the server
